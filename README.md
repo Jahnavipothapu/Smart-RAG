@@ -1,6 +1,6 @@
 # Advanced Multi-Agent RAG System
 
-![CI/CD](https://github.com/yourusername/advanced-multi-agent-rag/workflows/CI/CD%20Pipeline/badge.svg)
+
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Docker](https://img.shields.io/badge/docker-supported-blue)
@@ -372,10 +372,6 @@ requirements.txt          # Dependencies
 4. Ensure all tests pass
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
@@ -402,13 +398,6 @@ make lint
 ### Reporting Issues
 Please use our [issue templates](.github/ISSUE_TEMPLATE/) when reporting bugs or requesting features.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/advanced-multi-agent-rag&type=Date)](https://star-history.com/#yourusername/advanced-multi-agent-rag&Date)
 
 ## 🙏 Acknowledgments
 
