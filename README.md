@@ -395,9 +395,6 @@ make format
 make lint
 ```
 
-### Reporting Issues
-Please use our [issue templates](.github/ISSUE_TEMPLATE/) when reporting bugs or requesting features.
-
 
 ## 🙏 Acknowledgments
 
