@@ -2,7 +2,6 @@
 
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Docker](https://img.shields.io/badge/docker-supported-blue)
 
 A production-grade **Multi-Agent Retrieval-Augmented Generation (RAG)** system with advanced orchestration, tool use, conversation memory, and evaluation capabilities. Built with LangChain, OpenAI GPT-4, and modern AI frameworks.
